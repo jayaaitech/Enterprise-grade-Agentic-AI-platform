@@ -1,4 +1,4 @@
-# 🚀 Multi-Agent-Document-Platform
+# 🚀 Enterprise-grade Agentic AI platform
 
 An **enterprise-grade Agentic AI platform** for automating **Request for Quotation (RFQ)** analysis, engineering document intelligence, procurement validation, and semantic document search.
 
